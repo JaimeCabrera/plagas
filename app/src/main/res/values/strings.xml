@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">plagas</string>
+    <string name="title_scanner">Home</string>
+    <string name="title_misScaneadas">Mis capturas</string>
+    <string name="title_guia_de_plagas">Guía</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
