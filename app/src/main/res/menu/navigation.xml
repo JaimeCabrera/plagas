@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_scanear"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/title_scanner" />
+
+    <item
+        android:id="@+id/navigation_Scaneadas"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="@string/title_misScaneadas" />
+
+    <item
+        android:id="@+id/navigation_guia"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/title_guia_de_plagas" />
+
+</menu>
